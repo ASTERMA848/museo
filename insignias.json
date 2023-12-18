@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Bananita",
+        "imagen": "insignia1.jpg",
+        "descripcion": "Descripción de la insignia 1"
+    },
+    {
+        "nombre": "Distrito 2",
+        "imagen": "insignia3.jpg",
+        "descripcion": "Descripción de la insignia 3"
+    },
+    {
+        "nombre": "Scouts de Argentina",
+        "imagen": "insignia5.jpg",
+        "descripcion": "Descripción de la insignia 2"
+    },
+    {
+        "nombre": "Flor de lis internacional",
+        "imagen": "insignia6.jpg",
+        "descripcion": "Descripción de la insignia 2"
+    }
+]
